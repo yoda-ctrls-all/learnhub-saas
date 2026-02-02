@@ -1,6 +1,8 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
+from app.api import auth
+
 app = FastAPI(
     title="LearnHub SaaS API",
     description="SaaS platform with Stripe subscriptions",
@@ -15,6 +17,9 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+# Include routers
+app.include_router(auth.router)
 
 @app.get("/")
 def read_root():
