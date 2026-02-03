@@ -17,6 +17,10 @@ class Settings(BaseSettings):
     STRIPE_PUBLISHABLE_KEY: str
     STRIPE_WEBHOOK_SECRET: str
 
+    # Stripe Price IDs
+    STRIPE_PRO_PRICE_ID: str
+    STRIPE_PREMIUM_PRICE_ID: str
+
     # App
     ENVIRONMENT: str = "development"
 

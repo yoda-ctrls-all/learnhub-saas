@@ -1,37 +1,36 @@
+# Environment variables
+.env
+
 # Python
 __pycache__/
 *.py[cod]
+*$py.class
 *.so
 .Python
 venv/
 env/
-*.egg-info/
-.pytest_cache/
+ENV/
 
-# Node
-node_modules/
-dist/
-build/
-*.log
-
-# Environment
-.env
-.env.local
-
-# IDE
-.idea/
+# IDEs
 .vscode/
+.idea/
 *.swp
-*.iml
-
-# Database
-*.db
-*.sqlite
-postgres_data/
+*.swo
 
 # OS
 .DS_Store
 Thumbs.db
 
 # Docker
-.docker/
+*.log
+
+# Database
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+.next/
+out/
+build/
+dist/
