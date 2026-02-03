@@ -1,4 +1,4 @@
-# 🎓 LearnHub - SaaS Platform with Stripe
+# LearnHub - SaaS Platform with Stripe
 
 Modern SaaS platform for online courses with subscription management powered by Stripe.
 
